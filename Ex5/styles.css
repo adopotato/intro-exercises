@@ -1,0 +1,65 @@
+@font-face {font-family: SuperMario256; src: url('SuperMario256.ttf')}
+
+.head {
+    background-color: #FFDA09;
+    font-size: 40px;
+    font-family: 'SuperMario256';
+    color: #EB1F22;
+    text-align: left;
+}
+
+.luigi-pic {
+    background-color: #EB1F22;
+    height: 200px;
+}
+
+.aboutme {
+    background-color: white;
+    text-align: center;
+    
+}
+
+#p1 {
+    font-family: 'SuperMario256';
+    font-size: 40px;
+    color: #EB1F22;
+}
+
+#p2 {
+    font-family: ;
+    font-size: 14px;
+    color: #EB1F22;
+    
+}
+
+.foot {
+    background-color: #FFDA09;
+    height: 50px;
+}
+
+.container {
+    align-self: center;
+    width: 700px;
+    margin: 10px;
+    
+}
+
+.img-luigi {
+    width: auto;
+    height: 200px;
+    padding: 5px;
+            
+}
+
+.text {
+    width: 250px;
+    
+}
+
+.img-mushroom {
+    width: auto;
+    height: 45px;
+    margin-top: 3px;
+    margin-right: 3px;
+    float: right
+}
